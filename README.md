@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Matteo Rosada
+- I'm a Senior Developer
+- I work for Gruppo Euris S.p.A. since 2019
+- I started my career in 2012
 - 👀 I’m interested in:
   -  Backend development
   -  Business Intelligence, data analysis and reporting on Finance/Insurance area
